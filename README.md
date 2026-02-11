@@ -1,40 +1,62 @@
-### 👤 프로필
-* **이름:** 송윤화 (영어영문학과 23학번)
-* **이메일:** songyh20020205@soongsil.ac.kr
-* **목표:** AI소프트웨어학부 전과 및 엔지니어링 역량 확보
-* **GitHub:** [https://github.com/songyh0205](https://github.com/songyh0205)
+# Hi there, I'm Yoonhwa Song 👋
 
-### 🏫 학업 성취도 및 프로젝트 (University Coursework)
-**인문학도지만, SW 기초 과목에서 확실한 적성과 성과를 증명했습니다.**
+### 👤 Profile
+* **Name:** Song Yoonhwa (송윤화)
+* **Affiliation:** Soongsil Univ. Industrial & Information Systems Engineering (Transfer, 2026)
+* **Background:** English Language & Literature (Dual Major Base)
+* **Email:** songyh20020205@soongsil.ac.kr
+* **Interest:** `LLM`, `Prompt Engineering`, `NLP`, `Autonomous Driving`
 
-| 구분 | 과목명 / 활동명 | 성과 / 역할 | 비고 |
-| :--- | :--- | :--- | :--- |
-| **Course** | **컴퓨팅적 사고와 코딩기초** | **A+** | Python 기초 |
-| **Course** | **AI와 데이터기초** | **A+** | 데이터 리터러시 |
-| **Course** | **데이터분석기초 (R)** | **A** | 통계 및 분석 |
-| **Project** | 컴퓨팅적 사고 학기말 프로젝트 | **Team Leader (팀장)** | 기획 및 개발 주도 |
-| **Project** | AI와 데이터기초 프로젝트 | **Team Leader (팀장)** | 자료 수집 및 발표 |
-| **Extra** | 코드잇 / 스파르타코딩클럽 | 수료 | 웹/프로그래밍 기초 |
+---
 
-### 🛠️ 보유 기술 (Tech Stack)
+### 📚 Research Experience
+**Soongsil Univ. AI Convergence (Advisor: Prof. Seong-heum Kim)**
+* **Position:** Undergraduate Research Seminar Participant (학부 연구 세미나 참여)
+* **Period:** 2024 ~ Present
+* **Activities:**
+    * Participated in regular research seminars on **Autonomous Driving (LEAD)**.
+    * Reviewed IEEE/CVPR papers related to autonomous driving algorithms.
+    * Analyzed technical trends in self-driving systems.
+
+---
+
+### 🛠️ Tech Stack
+
+**Infrastructure & Database**
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Network-Infrastructure-blue?style=flat-square"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+**Language & Tools**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+---
+
+### 🏆 Certifications (Military Service)
+* **SQLD (SQL 개발자)** | 한국데이터산업진흥원 (2025.06)
+* **네트워크관리사 2급** | 한국정보통신자격협회 (2025.09)
+* **리눅스마스터 2급** | 한국정보통신진흥협회 (2025.10)
+
+---
+
+### 🏫 Academic Coursework
+| Category | Course Title (Korean) | Grade | Note |
+| :--- | :--- | :--- | :--- |
+| **Univ** | **컴퓨팅적 사고와 코딩기초** | **A+** | Python Basis |
+| **Univ** | **AI와 데이터기초** | **A+** | Data Literacy |
+| **Univ** | **데이터분석기초 (R)** | **A** | Statistics |
+| **E-Learning** | 4차 산업혁명 시대의 기술혁신과 AI | Pass | Tech Trend |
+| **E-Learning** | Python 프로그래밍 기초 | Pass | Review |
+| **E-Learning** | p5.js를 활용한 비주얼 코딩 | Pass | Visualization |
+
+---
+
+### 📅 Current Focus & Roadmap (2026)
+* **English Proficiency:** TOEFL iBT Preparation (Target: 100+)
+* **Mathematics:** Linear Algebra (Vector/Matrix), Probability & Statistics
+* **Engineering:** Data Structure, C Programming
+* **Plan:** Planning to pursue a multi-major degree in AI Software or AI Convergence.
+
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
-### 🏆 자격증 (군 복무 중 취득)
-**군 복무 기간(21개월) 동안 엔지니어링 기초 체력을 쌓기 위해 취득했습니다.**
-
-* **SQLD (SQL 개발자)** | 한국데이터산업진흥원 (2025.06.27)
-* **네트워크관리사 2급** | 한국정보통신자격협회 (2025.09.30)
-* **리눅스마스터 2급** | 한국정보통신진흥협회 (2025.10.03)
-
-### 📅 겨울방학 학습 로드맵 (2025 Winter)
-**복학 전까지 전공 수업을 소화할 수 있는 수리적/프로그래밍적 기반을 완성하겠습니다.**
-
-- [x] **IT 인프라 기초 완성** (Linux, Network, DB 자격증 취득) - *완료*
-- [ ] **인공지능 수학 (Mathematics for AI)**
-    - 선형대수학 (벡터, 행렬) - *현재 학습 중*
-    - 확률과 통계 기초
-- [ ] **Python 프로그래밍 심화**
-    - '혼자 공부하는 파이썬' 커리큘럼 완독
-    - NumPy를 활용한 수식 구현 실습
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
+</div>
